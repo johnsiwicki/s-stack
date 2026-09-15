@@ -22,6 +22,7 @@ One original project per week. The topic can repeat. The purpose cannot.
 ## Do not use when
 
 - There is no original project yet. Make the thing first.
+- The Tuesday email already exists and the user only wants tweets. Use `newsletter-to-tweet`.
 - The user wants a second content machine. That is a `chief-of-staff` Kill.
 - Friday video is crowding out Tuesday. Protect Tuesday.
 
@@ -41,7 +42,7 @@ One original project per week. The topic can repeat. The purpose cannot.
 
 1. Write the **teach** version: tools, steps, what worked, what failed, how to try it this week.
 2. Write the **prove** version only if this is case-study strong: problem, constraints, decisions, screenshots, what you would change. Skip it most weeks.
-3. Write **three X posts** with different jobs:
+3. Write **three X posts** with different jobs. If the Tuesday email already exists, use `newsletter-to-tweet` instead of rewriting them here:
    - The problem in plain numbers or steps
    - The lesson or screenshot from the build
    - A question that invites replies

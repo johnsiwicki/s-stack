@@ -50,6 +50,7 @@ Copy `skills/<slug>/` into the tool's skill directory, or paste `SKILL.md` into 
 | [`stack-snacks-issue`](skills/stack-snacks-issue/SKILL.md) | Writing the Tuesday Stack Snacks email |
 | [`keep-or-kill-review`](skills/keep-or-kill-review/SKILL.md) | Honest tool review with a keep / cancel / wait verdict |
 | [`content-repurpose`](skills/content-repurpose/SKILL.md) | One project → video, newsletter, X, Notes |
+| [`newsletter-to-tweet`](skills/newsletter-to-tweet/SKILL.md) | Finished newsletter → X posts / thread |
 | [`youtube-packaging`](skills/youtube-packaging/SKILL.md) | Titles, thumbnails, hooks, descriptions |
 | [`youtube-thumbnail-creator`](skills/youtube-thumbnail-creator/SKILL.md) | Generating thumbnail design concepts |
 | [`seo-audit`](skills/seo-audit/SKILL.md) | Practical SEO audits and action plans |
