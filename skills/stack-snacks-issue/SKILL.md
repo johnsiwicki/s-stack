@@ -17,6 +17,7 @@ Default to **Template A**. Use **Template B** only when this issue is an honest 
 
 ## Do not use when
 
+- The user wants tweets or an X thread from an issue that already exists. Use `newsletter-to-tweet`.
 - The user wants video titles and thumbnails. Use `youtube-packaging`.
 - The user wants a keep/cancel/wait research brief before writing. Use `keep-or-kill-review`, then come back here.
 - The user is asking whether to skip Tuesday for a video or a new system. Use `chief-of-staff`. The answer is no.
@@ -103,6 +104,7 @@ Include the full prompt, when to use, when not to, model used, and the one varia
 2. Three Notes, ready to paste
 3. The checklist, still checked so the user can uncheck while editing
 4. Do **not** send unless the user explicitly says to publish
+5. For X posts from this draft, point at `newsletter-to-tweet` — do not invent a second recap thread here
 
 ## Guardrails
 

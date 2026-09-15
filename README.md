@@ -50,14 +50,12 @@ Copy `skills/<slug>/` into the tool's skill directory, or paste `SKILL.md` into 
 | [`stack-snacks-issue`](skills/stack-snacks-issue/SKILL.md) | Writing the Tuesday Stack Snacks email |
 | [`keep-or-kill-review`](skills/keep-or-kill-review/SKILL.md) | Honest tool review with a keep / cancel / wait verdict |
 | [`content-repurpose`](skills/content-repurpose/SKILL.md) | One project → video, newsletter, X, Notes |
+| [`newsletter-to-tweet`](skills/newsletter-to-tweet/SKILL.md) | Finished newsletter → X posts / thread |
 | [`youtube-packaging`](skills/youtube-packaging/SKILL.md) | Titles, thumbnails, hooks, descriptions |
 | [`youtube-thumbnail-creator`](skills/youtube-thumbnail-creator/SKILL.md) | Generating thumbnail design concepts |
 | [`seo-audit`](skills/seo-audit/SKILL.md) | Practical SEO audits and action plans |
 | [`website-qa-audit`](skills/website-qa-audit/SKILL.md) | Lighthouse + visual QA across viewports |
 | [`tracking-pixel-audit`](skills/tracking-pixel-audit/SKILL.md) | Checking GTM, GA4, ads, and pixels on a URL |
-| [`ab-testing-cro`](skills/ab-testing-cro/SKILL.md) | Lead-gen A/B tests scored with ICE |
-| [`site-builder`](skills/site-builder/SKILL.md) | ATB / Treehouse CMS homepage sections |
-| [`old-accordion-to-accordion-style-converter`](skills/old-accordion-to-accordion-style-converter/SKILL.md) | Legacy Treehouse accordion HTML → `details`/`summary` |
 
 ## Automations
 
