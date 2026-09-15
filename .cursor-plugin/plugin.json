@@ -1,0 +1,14 @@
+{
+  "name": "s-stack",
+  "version": "0.1.0",
+  "description": "Portable skills and automations for Cursor, Claude, Codex, Copilot, ChatGPT, Gemini, and Zo.",
+  "author": {
+    "name": "John Siwicki",
+    "email": "johnsiwicki@gmail.com"
+  },
+  "homepage": "https://github.com/johnsiwicki/s-stack",
+  "repository": "https://github.com/johnsiwicki/s-stack",
+  "license": "MIT",
+  "keywords": ["skills", "automations", "agent-skills", "stack-snacks", "treehouse"],
+  "skills": "./skills"
+}

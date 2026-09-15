@@ -1,0 +1,17 @@
+{
+  "name": "s-stack",
+  "owner": {
+    "name": "John Siwicki",
+    "email": "johnsiwicki@gmail.com"
+  },
+  "metadata": {
+    "description": "Cross-tool skills and automations used across Cursor, Claude, Codex, Copilot, and other agents."
+  },
+  "plugins": [
+    {
+      "name": "s-stack",
+      "source": ".",
+      "description": "Portable Agent Skills plus automation recipes for Stack Snacks, Treehouse client work, and personal ops."
+    }
+  ]
+}
