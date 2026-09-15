@@ -55,9 +55,6 @@ Copy `skills/<slug>/` into the tool's skill directory, or paste `SKILL.md` into 
 | [`seo-audit`](skills/seo-audit/SKILL.md) | Practical SEO audits and action plans |
 | [`website-qa-audit`](skills/website-qa-audit/SKILL.md) | Lighthouse + visual QA across viewports |
 | [`tracking-pixel-audit`](skills/tracking-pixel-audit/SKILL.md) | Checking GTM, GA4, ads, and pixels on a URL |
-| [`ab-testing-cro`](skills/ab-testing-cro/SKILL.md) | Lead-gen A/B tests scored with ICE |
-| [`site-builder`](skills/site-builder/SKILL.md) | ATB / Treehouse CMS homepage sections |
-| [`old-accordion-to-accordion-style-converter`](skills/old-accordion-to-accordion-style-converter/SKILL.md) | Legacy Treehouse accordion HTML → `details`/`summary` |
 
 ## Automations
 

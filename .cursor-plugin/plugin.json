@@ -9,6 +9,6 @@
   "homepage": "https://github.com/johnsiwicki/s-stack",
   "repository": "https://github.com/johnsiwicki/s-stack",
   "license": "MIT",
-  "keywords": ["skills", "automations", "agent-skills", "stack-snacks", "treehouse"],
+  "keywords": ["skills", "automations", "agent-skills", "stack-snacks"],
   "skills": "./skills"
 }
